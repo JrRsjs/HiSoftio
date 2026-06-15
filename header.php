@@ -11,9 +11,10 @@
     <link href="https://aplio.vercel.app/vendor/fancybox/fancybox.css" rel="stylesheet" />
     <link href="https://aplio.vercel.app/vendor/swiper/swiper.css" rel="stylesheet" />
     <link href="https://aplio.vercel.app/vendor/aos/aos.css" rel="stylesheet" />
-    <link href="https://aplio.vercel.app/css/theme.css" rel="stylesheet" />
+    <link href="/style.css" rel="stylesheet" />
     <link rel="icon" type="image/png" rel="icon" sizes="57x57" href="/img/icon.png">
     <script id="pixel-chaty" async="true" src="https://cdn.chaty.app/pixel.js?id=QRbfS5P1"></script>
+    <script src="/theme.js" defer></script>
     <style>
 .logo{
   width: 110px !important;
